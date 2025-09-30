@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitcount+Prop+Single+Ink:wght@100..900&family=Nosifer&display=swap');
+
+:root{
+    /* CSS HEX */
+--amarelo: rgb(241, 238, 10);
+--verde: rgb(33, 228, 15);
+--vermelho: rgb(223, 28, 21);
+--roxo: #5e05ee;
+--titulo: "Bitcount Prop Single Ink", system-ui;
+--texto: "Nosifer", sans-serif;
+}
+ 
+body{
+    background-color: var(--vermelho);
+    font-family: var(--texto);
+}
